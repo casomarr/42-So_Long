@@ -49,7 +49,6 @@ Compile the program:
 make  
 ```
 Run the program with a valid map file:
-Example:
 ```sh
 ./so_long maps/map1.ber  
 ```
